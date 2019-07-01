@@ -1,5 +1,5 @@
 # Customer 
-credits to Dahn Wahlin www.scrimba.com
+credits to Dahn Wahlin https://scrimba.com/@DanWahlin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
